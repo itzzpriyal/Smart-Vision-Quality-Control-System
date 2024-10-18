@@ -1,0 +1,18 @@
+{
+    "name": "nodejs-smart-vision-qc",
+    "version": "1.0.0",
+    "description": "Smart Vision Quality Control System using Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["node", "smart vision", "quality control"],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "opencv4nodejs": "^5.6.0",
+      "tesseract.js": "^2.1.5",
+      "moment": "^2.29.1"
+    }
+  }
